@@ -38,6 +38,13 @@ CLOUDINARY_API_KEY= your cloudinary API key
 
 CLOUDINARY_API_SECRET= your cloudinary api secrect
 
+
+MAIL_PASS= your Google App Password
+
+
+MAIL_USER= sender Email address
+
+
 ### frontend .env
 
 VITE_API_URL=http://localhost:4500/api
